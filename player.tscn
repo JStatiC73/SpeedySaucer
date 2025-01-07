@@ -16,3 +16,6 @@ texture = ExtResource("1_vd6ja")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("CircleShape2D_6pyun")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position_smoothing_speed = 72.9
